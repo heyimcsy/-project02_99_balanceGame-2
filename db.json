@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "id": 8,
+      "gameId": 8,
+      "title": "깻닢논쟁",
+      "optionA": "깻닢을 떼준다!",
+      "optionB": "아니 절대 불가능해!",
+      "commentsA": [],
+      "commentsB": [
+        {
+          "id": 6,
+          "commentId": 6,
+          "GameId": 8,
+          "UserId": 3,
+          "content": "깻닢논쟁B",
+          "option": "B",
+          "createdAt": "2023-03-18T15:36:09.000Z",
+          "updatedAt": "2023-03-18T15:36:09.000Z"
+        }
+      ],
+      "UserId": 3,
+      "createdAt": "2023-03-18T15:25:32.000Z",
+      "updatedAt": "2023-03-18T15:25:32.000Z"
+    },
+    {
+      "id": 10,
+      "gameId": 9,
+      "title": "깻닢논쟁222",
+      "optionA": "깻닢을 떼준다!2222",
+      "optionB": "아니 절대 불가능해!2222",
+      "commentsA": [
+        {
+          "id": 10,
+          "commentId": 10,
+          "GameId": 7,
+          "UserId": 3,
+          "content": "깻닢논쟁dhogo",
+          "option": "A",
+          "createdAt": "2023-03-18T15:36:09.000Z",
+          "updatedAt": "2023-03-18T15:36:09.000Z"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 7,
+      "commentId": 7,
+      "GameId": 8,
+      "UserId": 3,
+      "content": "깻닢논쟁Bdsfgsd",
+      "option": "B",
+      "createdAt": "2023-03-18T15:36:09.000Z",
+      "updatedAt": "2023-03-18T15:36:09.000Z"
+    },
+    {
+      "id": 6,
+      "commentId": 6,
+      "GameId": 8,
+      "UserId": 3,
+      "content": "깻닢논쟁B",
+      "option": "B",
+      "createdAt": "2023-03-18T15:36:09.000Z",
+      "updatedAt": "2023-03-18T15:36:09.000Z"
+    }
+  ]
+}
